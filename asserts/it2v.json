@@ -1,0 +1,14 @@
+[
+    {
+        "prompt": "Use the right hand to pick up pink peach from center of table to lower white tray of plastic shelf.",
+        "image": "images/init_frame_0.png"
+    },
+    {
+        "prompt": "The robot gripper in the video is black with a metallic texture and appears to be made of metal.\n\nThe foreground of the video includes:\nThe robot gripper is grasping a yellow lemon. The lemon has a smooth, shiny surface and appears to be made of plastic.\nThe other objects are:\n- A green cucumber on the left side.\n- An apple with red and yellow skin.\n- A pomegranate with a mix of red and green colors.\n- A pink peach.\n- An orange.\n- A green avocado.\n\nThe background of the video includes:\n\n1. A wooden surface with a dark finish.\n2. A white wall at the top edge of the frame.\n\nThe lighting color in the video is white, intensity is moderate, and the position is above the table.\nUse the right hand to grab the lemon and move it towards the center of the table.",
+        "image": "images/init_frame_1.png"
+    },
+    {
+        "prompt": "The robot gripper in the video is black with a metallic texture and appears to be made of a durable, industrial-grade material.\n\nThe foreground of the video includes:\nThe robot gripper is not grasping any object.\nThe other objects are:\n- A clear glass cup on the right side of the table.\n- A white plate with a sandwich and some garnishes on it.\n- A small container with what appears to be tea bags or similar items.\n- A vase with white flowers on the left side of the table.\n\nThe background of the video includes:\n\n1. A vase with white flowers.\n2. A plate with toast and some toppings.\n3. A glass on the table.\n\nThe lighting condition in the video is bright, with an intensity that evenly illuminates the entire scene, creating a clear and well-lit atmosphere.\nThe right hand of the robot is holding a white teapot and pouring liquid into a clear glass placed on the table. The left hand is positioned near a container of tea bags, ready to pick one up if needed.",
+        "image": "images/init_frame_2.png"
+    }
+]
