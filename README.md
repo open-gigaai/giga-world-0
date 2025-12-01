@@ -2,9 +2,9 @@
     <h1> GigaWorld-0: World Models as Data Engine to Empower Embodied AI </h1>
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Project](https://img.shields.io/badge/Project-Page-99cc2)](https://gigaworld0.github.io/)
+[![Project](https://img.shields.io/badge/Project-Page-99cc2)](https://giga-world-0.github.io/)
 [![Papers](https://img.shields.io/badge/Paper-ArXiv-99cc2)](https://arxiv.org/abs/2511.19861)
-[![Demo](https://img.shields.io/badge/Demo-Video-red?logo=youtube)](https://github.com/gigaworld0/gigaworld0.github.io/releases/download/v1/Gigaworld-0.mp4)
+[![Demo](https://img.shields.io/badge/Demo-Video-red?logo=youtube)](https://github.com/giga-world-0/giga-world-0.github.io/releases/download/demo/Gigaworld-0.mp4)
 [![Models](https://img.shields.io/badge/Models-Huggingface-red?logo=huggingface)](https://huggingface.co/open-gigaai)
 
 </div>
