@@ -24,7 +24,7 @@ to ensure geometric consistency and physical realism.
 
 GigaWorld-0-Video-Dreamer is our foundation video generation model, capable of achieving IT2V generation.
 
-![Framework of GigaWorld-Video-Dreamer](assets/Dreamer.png)
+![Framework of GigaWorld-0-Video-Dreamer](assets/Dreamer.png)
 
 ## ⚡ Installation
 
